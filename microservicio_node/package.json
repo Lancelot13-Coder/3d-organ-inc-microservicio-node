@@ -1,0 +1,7 @@
+{
+  "name": "3d-organ-inc-microservicio-node",
+  "version": "1.0.0",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
